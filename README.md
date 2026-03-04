@@ -1,3 +1,30 @@
+# Hi 👋 I'm Sachin Kumar Chaudhary
+
+🎓 CSE Student
+💻 Python Developer
+🤖 Interested in AI & Machine Learning
+
+---
+
+## 🚀 Skills
+
+* Python
+* Data Structures & Algorithms
+* Git & GitHub
+* Machine Learning Basics
+
+---
+
+## 📂 Projects
+
+* Accident Detection System
+* Emotion Meme Recommendation System
+* Python Chatbot
+* Web Scraper
+
+---
+
+
 
 ## 💻 Tech Stack & Tools
 
@@ -13,5 +40,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+
+## 📫 Connect With Me
+
+* LinkedIn: (add your linkedin link)
+* Email: (add your email)
+
+---
+
+
+⭐ Always learning new technologies and building projects.

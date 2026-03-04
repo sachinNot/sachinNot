@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Sachin Kumar Chaudhary
 
-<!--
-**sachinNot/sachinNot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
+💻 Python Developer
+🤖 Interested in AI & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python
+* Data Structures & Algorithms
+* Git & GitHub
+* Machine Learning Basics
+
+---
+
+## 📂 Projects
+
+* Accident Detection System
+* Emotion Meme Recommendation System
+* Python Chatbot
+* Web Scraper
+
+---
+
+## 📫 Connect With Me
+
+* Email: (sachin9935chaudhary@gmail.com)
+
+---
+
+⭐ Always learning new technologies and building projects.
+

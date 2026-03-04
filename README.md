@@ -10,7 +10,6 @@
 
 * Python
 * Data Structures & Algorithms
-* Git & GitHub
 * Machine Learning Basics
 
 ---
@@ -43,10 +42,9 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your linkedin link)
-* Email: (add your email)
 
----
+* Email: (sachin9935chaudhary@gmail.com)
+
 
 
 ⭐ Always learning new technologies and building projects.
